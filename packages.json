@@ -1,6 +1,7 @@
 [
     {
         "package": "fio",
-        "url": "https://github.com/albersonmiranda/fio/tree/main"
+        "url": "https://github.com/albersonmiranda/fio",
+        "branch": "main"
     }
 ]
